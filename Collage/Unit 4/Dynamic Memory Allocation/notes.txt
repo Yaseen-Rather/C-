@@ -1,0 +1,1 @@
+memory is a piece of area which a program needs to run by itself.
